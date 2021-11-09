@@ -1,0 +1,11 @@
+input {
+  margin: 20px 10px 0px 10px;
+  width: 220px;
+}
+
+pre {
+  background-color: #eee;
+  padding: 1em;
+  width: 320px;
+  margin: 1em;
+}
